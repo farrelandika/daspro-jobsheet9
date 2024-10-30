@@ -27,6 +27,5 @@ public class SearchNilaiSoal1 {
         System.out.println();
         if (hasil != -1) {
             System.out.println("Nilai " + key + " ketemu, merupakan nilai mahasiswa ke-" + (hasil + 1));
-        }
     }
 }
